@@ -1,3 +1,4 @@
+- [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
 - [Email Self-Defense - a guide to fighting surveillance with GnuPG
 encryption](https://emailselfdefense.fsf.org/) #openpgp
 - [XState - JavaScript State Machines and Statecharts](https://xstate.js.org/) #todo#algorithm
